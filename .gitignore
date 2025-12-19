@@ -1,3 +1,4 @@
 .env
-myvenv11
-__pychace__/
+myvenv312
+__pycache__/
+data/chroma_db/

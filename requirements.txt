@@ -1,0 +1,21 @@
+# Core
+python-dotenv==1.0.1
+
+# Langchain core
+langchain==0.3.14
+langchain-core==0.3.29
+langchain-community==0.3.14
+
+#GEmini
+langchain-google-genai==2.0.6
+google-generativeai==0.8.3
+
+# Vector DB
+chromadb==0.5.18
+
+# PDF handling
+pypdf==5.1.0
+
+# Utilities
+tqdm==4.67.1
+typing-extensions==4.12.2
